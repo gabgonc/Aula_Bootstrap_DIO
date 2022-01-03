@@ -1,0 +1,30 @@
+.navbar {
+  background: linear-gradient(#1d1b1b, #5e0691) no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.quem-somos {
+  background-color: blueviolet;
+}
+
+.parceiros {
+  background-color: cornsilk;
+}
+
+.servicos {
+  background-color: blueviolet;
+}
+
+.margin {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.develop {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding-bottom: 50px;
+}
